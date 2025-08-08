@@ -1,0 +1,134 @@
+{
+  "foody": [
+    {
+      "sentence": "Cho tôi xem thực đơn được không?",
+      "meaning": "Can I see the menu, please?",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    },
+    {
+      "sentence": "Bạn có thể gợi ý món nào đặc sắc không?",
+      "meaning": "Can you recommend a specialty?",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    },
+    {
+      "sentence": "Tôi muốn gọi món này.",
+      "meaning": "I would like to order this dish.",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    },
+    {
+      "sentence": "Món này có cay không?",
+      "meaning": "Is this dish spicy?",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    },
+    {
+      "sentence": "Làm ơn cho tôi một ly nước lọc.",
+      "meaning": "Can I have a glass of water, please?",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    },
+    {
+      "sentence": "Món ăn thật tuyệt vời!",
+      "meaning": "The food is amazing!",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    },
+    {
+      "sentence": "Làm ơn tính tiền cho tôi.",
+      "meaning": "The bill, please.",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    },
+    {
+      "sentence": "Tôi có thể thanh toán bằng thẻ tín dụng không?",
+      "meaning": "Can I pay by credit card?",
+      "vocabType": "sentence",
+      "isRecommend": true,
+      "example": "",
+      "word": ""
+    }
+  ],
+  "visit": [
+    {
+      "word": "Vé vào cửa",
+      "meaning": "Entrance ticket",
+      "example": "Giá vé vào cửa cho người lớn là bao nhiêu?",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    },
+    {
+      "word": "Giờ mở cửa",
+      "meaning": "Opening hours",
+      "example": "Xin cho hỏi giờ mở cửa của bảo tàng?",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    },
+    {
+      "word": "Hướng dẫn viên",
+      "meaning": "Tour guide",
+      "example": "Chúng tôi có cần thuê hướng dẫn viên không?",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    },
+    {
+      "word": "Quà lưu niệm",
+      "meaning": "Souvenir",
+      "example": "Cửa hàng quà lưu niệm ở đâu vậy?",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    },
+    {
+      "word": "Triển lãm",
+      "meaning": "Exhibition",
+      "example": "Có triển lãm đặc biệt nào đang diễn ra không?",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    },
+    {
+      "word": "Chụp ảnh",
+      "meaning": "To take a photo",
+      "example": "Tôi có được phép chụp ảnh ở khu vực này không?",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    },
+    {
+      "word": "Bản đồ",
+      "meaning": "Map",
+      "example": "Bạn có thể cho tôi xin một tấm bản đồ khu vực này không?",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    },
+    {
+      "word": "Di tích Lịch sử",
+      "meaning": "Historical site",
+      "example": "Đây là một di tích lịch sử quốc gia.",
+      "vocabType": "vocab",
+      "isRecommend": true,
+      "sentence": ""
+    }
+  ]
+}
